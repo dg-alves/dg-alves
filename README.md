@@ -1,4 +1,4 @@
-## Olá! Meu nome é Douglas Alves 👋
+## Olá mundo! Meu nome é Douglas Alves 👋
 
 - Front-End Developer
 - Estudando TypeScript && React
